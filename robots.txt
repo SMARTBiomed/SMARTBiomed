@@ -1,1 +1,1 @@
-Sitemap: https://smartbiomed.github.io/SMARTBiomed/sitemap.xml
+Sitemap: http://smartbiomed.dk/sitemap.xml
