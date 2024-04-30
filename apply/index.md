@@ -1,7 +1,7 @@
 ---
 title: Apply
 nav:
-  order: 5
+  order: 6
   tooltip: Apply for positions
 ---
 
