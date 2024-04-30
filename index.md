@@ -1,7 +1,7 @@
 ---
 ---
 
-# SMARTBiomed 
+
 # The Pioneer Centre for SMART-Biomed (Statistical and computational Methods for Advanced Research to Transform Biomedicine)
 
 
