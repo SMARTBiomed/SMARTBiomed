@@ -1,5 +1,5 @@
 
-# SMARTBiomedDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# SMARTBiomed
 
 Visit **[www.smartbiomed.dk](http://www.smartbiomed.dk)** 🚀
 
