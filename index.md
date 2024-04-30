@@ -1,7 +1,8 @@
 ---
 ---
 
-# SMARTBiomedDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# SMARTBiomed 
+# The Pioneer Centre for SMART-Biomed (Statistical and computational Methods for Advanced Research to Transform Biomedicine
 
 
 
